@@ -14,7 +14,7 @@
 
 - **Python 3.8+**
 - **OpenAI Python SDK**
-- **JSON**
+- **JSON** 
 
 ## 🚀 Установка и запуск
 
