@@ -1,0 +1,13 @@
+# Секреты
+api_key.txt
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Настройки IDE (PyCharm)
+.idea/
